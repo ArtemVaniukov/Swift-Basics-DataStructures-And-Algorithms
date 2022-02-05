@@ -29,6 +29,7 @@
 		3AF7C98927AE5BEA005BA5A0 /* 01-Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "01-Node.swift"; sourceTree = "<group>"; };
 		3AF7C98B27AE5E3F005BA5A0 /* 02-LinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "02-LinkedList.swift"; sourceTree = "<group>"; };
 		3AF7C98F27AE6784005BA5A0 /* 02a-LinkedList-RemovingTest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "02a-LinkedList-RemovingTest.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3AF7C99027AE8B59005BA5A0 /* 02b-LinkedList-CollectionTest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "02b-LinkedList-CollectionTest.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +68,7 @@
 				3AF7C98B27AE5E3F005BA5A0 /* 02-LinkedList.swift */,
 				3AF7C98627AE5A3B005BA5A0 /* 02-LinkedList-AddingTest.playground */,
 				3AF7C98F27AE6784005BA5A0 /* 02a-LinkedList-RemovingTest.playground */,
+				3AF7C99027AE8B59005BA5A0 /* 02b-LinkedList-CollectionTest.playground */,
 				3AF7C98827AE5A8B005BA5A0 /* UselessThings */,
 			);
 			path = "Swift-Basics-DataStructures-And-Algorithms";
